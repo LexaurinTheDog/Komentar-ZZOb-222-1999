@@ -89,3 +89,4 @@ Komentář k zákonu č. 222/1999 Sb., o zajišťování obrany České republik
 | § 73b | [04-prestupky-vykon-rozhodnuti-zaverecna.md](04-prestupky-vykon-rozhodnuti-zaverecna.md) |
 | § 74 — Zrušují se | [04-prestupky-vykon-rozhodnuti-zaverecna.md](04-prestupky-vykon-rozhodnuti-zaverecna.md) |
 | § 75 | [04-prestupky-vykon-rozhodnuti-zaverecna.md](04-prestupky-vykon-rozhodnuti-zaverecna.md) |
+| Příloha | [05-priloha-vojenske-objekty.md](05-priloha-vojenske-objekty.md) |
